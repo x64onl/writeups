@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Read Me](README.md)
 
-## Certifications
+## Certification Guides <a id="certs"></a>
 
-* [CompTIA Security+ Certification Guide](certifications/comptia-security-plus.md)
+* [CompTIA Security+](certs/comptia-security-plus.md)
 
 ## Capture the Flag <a id="ctf"></a>
 
