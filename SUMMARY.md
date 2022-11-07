@@ -1,12 +1,9 @@
 # Table of contents
 
-* [Read Me](README.md)
+## Certification Guides <a href="#certs" id="certs"></a>
 
-## Certification Guides <a id="certs"></a>
+* [CompTIA Security+](README.md)
 
-* [CompTIA Security+](certs/comptia-security-plus.md)
-
-## Capture the Flag <a id="ctf"></a>
+## Capture the Flag <a href="#ctf" id="ctf"></a>
 
 * [Exfiltration](ctf/exfiltration.md)
-
